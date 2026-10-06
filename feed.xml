@@ -3,43 +3,22 @@
     <title>rizkydarmadi</title>
     <link href="https://rizkydarmadi.com/feed.xml" rel="self" />
     <link href="https://rizkydarmadi.com" />
-    <updated>2026-10-07T00:47:59+07:00</updated>
+    <updated>2026-10-07T00:52:49+07:00</updated>
     <author>
         <name>ry</name>
     </author>
     <id>https://rizkydarmadi.com</id>
 
     <entry>
-        <title>Lalisa - Talk with native English Speaker</title>
-        <author>
-            <name>ry</name>
-        </author>
-        <link href="https://rizkydarmadi.com/lalisa-talk-with-native-english-speaker/"/>
-        <id>https://rizkydarmadi.com/lalisa-talk-with-native-english-speaker/</id>
-            <category term="Projects"/>
-
-        <updated>2026-10-04T03:47:09+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>test</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Mau Ikut atau Tertinggal? Analisa Tren Pekerjaan Masa Depan 2025-2030</title>
         <author>
             <name>ry</name>
         </author>
-        <link href="https://rizkydarmadi.com/hello-world-2/"/>
-        <id>https://rizkydarmadi.com/hello-world-2/</id>
+        <link href="https://rizkydarmadi.com/ai-trends/"/>
+        <id>https://rizkydarmadi.com/ai-trends/</id>
             <category term="Posts"/>
 
-        <updated>2026-10-04T02:34:52+07:00</updated>
+        <updated>2026-10-07T00:51:57+07:00</updated>
             <summary type="html">
                 <![CDATA[
                     Dunia kerja sedang berubah lebih cepat dari yang kita bayangkan. Teknologi baru terus bermunculan, pola bisnis ikut bergeser, dan kebutuhan skill pun ikut berevolusi. Berdasarkan laporan World Economic Forum (WEF) 2025, kita sudah masuk ke fase di mana kemampuan beradaptasi bukan lagi nilai tambah melainkan&hellip;
@@ -111,6 +90,27 @@
 <p id="ember243" class="ember-view reader-text-block__paragraph"></p>
 <hr class="reader-divider-block__horizontal-rule">
 <p id="ember244" class="ember-view reader-text-block__paragraph"><em>Source: World Economic Forum, Future of Jobs Report 2025.</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lalisa - Talk with native English Speaker</title>
+        <author>
+            <name>ry</name>
+        </author>
+        <link href="https://rizkydarmadi.com/lalisa-talk-with-native-english-speaker/"/>
+        <id>https://rizkydarmadi.com/lalisa-talk-with-native-english-speaker/</id>
+            <category term="Projects"/>
+
+        <updated>2026-10-04T03:47:09+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
             ]]>
         </content>
     </entry>
